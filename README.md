@@ -48,14 +48,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JeremyDFabian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JeremyDFabian&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDFabian&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeremyDFabian&hide_border=true&theme=tokyo-night&area=true" alt="Activity graph" width="98%"/>
 
 <img src="https://raw.githubusercontent.com/JeremyDFabian/JeremyDFabian/output/github-snake-dark.svg" alt="contribution snake" width="98%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JeremyDFabian&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="trophies"/>
 
 </div>
 
