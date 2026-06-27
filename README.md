@@ -1,36 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Jeremy+Fabian+%F0%9F%91%8B;Application+Developer+Intern+%40+IBM;Computer+Science+%40+FEU+Tech;AI%2FML+%E2%80%A2+Backend+%E2%80%A2+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=003DA5&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Jeremy+Fabian+%F0%9F%91%8B;Application+Developer+Intern+%40+IBM;Computer+Science+%40+FEU+Tech;AI%2FML+%E2%80%A2+Backend+%E2%80%A2+Security" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/JeremyDFabian">
-    <img src="https://komarev.com/ghpvc/?username=JeremyDFabian&label=Profile%20views&color=6e40c9&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=JeremyDFabian&label=Profile%20views&color=003da5&style=flat" alt="profile views"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Metro_Manila,_Philippines-success?style=flat" alt="Location"/>
   <img src="https://img.shields.io/badge/Application_Developer_Intern-IBM-052FAD?style=flat&logo=ibm&logoColor=white" alt="IBM"/>
 </p>
 
 </div>
-
----
-
-### 🧠 About me
-
-<!-- TODO: Jeremy to fill in the About section later. Intentionally left blank for now. -->
-
----
-
-### 🚀 Featured projects
-
-> 🟣 &nbsp; **🧩 Sandbox** &nbsp; ![Sandbox award](https://img.shields.io/badge/🏆_3rd_of_503_·_$2,000-1f6feb?style=flat)
->
-> AI tool that turns an uploaded codebase into a 0–100 deployment-risk score, ranked issue list, and failure-cascade timeline on **IBM watsonx.ai (Granite)**. Hardened with 60+ Vitest tests.
-> `Next.js 15` · `React 19` · `TypeScript` · `Tailwind` · `React Flow`
-
-> 🟢 &nbsp; **🔐 DocuTrack** &nbsp; ![DocuTrack award](https://img.shields.io/badge/🎓_Best_Thesis-238636?style=flat)
->
-> Hybrid **AES-256-GCM / RSA-PSS / SHA-256** platform that secures and verifies academic documents, with byte-for-byte integrity and 1-byte tamper rejection across a 500+ document test set.
-> `Python` · `FastAPI` · `SQLite` · `JavaScript`
 
 ---
 
@@ -64,6 +44,6 @@
 <p>
   <a href="https://www.linkedin.com/in/jeremy-fabian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jeremydfabian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://jeremyfabian.com"><img src="https://img.shields.io/badge/Website-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://jeremyfabian.com"><img src="https://img.shields.io/badge/Website-003DA5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://github.com/JeremyDFabian"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
