@@ -5,8 +5,8 @@
 **Application Developer Intern @ IBM · BS Computer Science @ FEU Tech**
 
 <img src="https://img.shields.io/badge/IBM-Application_Developer_Intern-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/>
-<img src="https://img.shields.io/badge/📍-Metro_Manila,_Philippines-003DA5?style=flat-square" alt="Location"/>
 <a href="https://jeremyfabian.com"><img src="https://img.shields.io/badge/🌐-jeremyfabian.com-003DA5?style=flat-square" alt="Website"/></a>
+<img src="https://komarev.com/ghpvc/?username=JeremyDFabian&label=Profile%20views&color=003da5&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -31,12 +31,17 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JeremyDFabian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JeremyDFabian&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=003DA5&icon_color=003DA5&text_color=24292f" alt="GitHub stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeremyDFabian&theme=github_dark">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeremyDFabian&theme=github" alt="GitHub stats"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDFabian&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=58A6FF&text_color=c9d1d9">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyDFabian&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=003DA5&text_color=24292f" alt="Top languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeremyDFabian&theme=github_dark">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeremyDFabian&theme=github" alt="Top languages"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JeremyDFabian&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e">
+  <img height="170" src="https://streak-stats.demolab.com?user=JeremyDFabian&hide_border=true&background=00000000&ring=003DA5&fire=003DA5&currStreakNum=24292f&sideNums=24292f&currStreakLabel=003DA5&sideLabels=24292f&dates=57606a" alt="Contribution streak"/>
 </picture>
 
 <picture>
