@@ -40,9 +40,11 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JeremyDFabian&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e">
-  <img height="170" src="https://streak-stats.demolab.com?user=JeremyDFabian&hide_border=true&background=00000000&ring=003DA5&fire=003DA5&currStreakNum=24292f&sideNums=24292f&currStreakLabel=003DA5&sideLabels=24292f&dates=57606a" alt="Contribution streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JeremyDFabian&hide_border=true&background=00000000&ring=F0883E&fire=FF6D3D&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=F0883E&sideLabels=c9d1d9&dates=8b949e">
+  <img height="180" src="https://streak-stats.demolab.com?user=JeremyDFabian&hide_border=true&background=00000000&ring=E25822&fire=FF6D00&currStreakNum=24292f&sideNums=24292f&currStreakLabel=E25822&sideLabels=24292f&dates=57606a" alt="Contribution streak"/>
 </picture>
+
+<sub>🔥 the one warm thing on a blue page — kept alive one commit at a time</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeremyDFabian/JeremyDFabian/output/github-snake-dark.svg">
