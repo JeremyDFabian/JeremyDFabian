@@ -44,8 +44,6 @@
   <img height="180" src="https://streak-stats.demolab.com?user=JeremyDFabian&hide_border=true&background=00000000&ring=E25822&fire=FF6D00&currStreakNum=24292f&sideNums=24292f&currStreakLabel=E25822&sideLabels=24292f&dates=57606a" alt="Contribution streak"/>
 </picture>
 
-<sub>🔥 the one warm thing on a blue page — kept alive one commit at a time</sub>
-
 </div>
 
 ## 🤝 Connect
