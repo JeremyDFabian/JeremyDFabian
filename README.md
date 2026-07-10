@@ -46,11 +46,6 @@
 
 <sub>🔥 the one warm thing on a blue page — kept alive one commit at a time</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeremyDFabian/JeremyDFabian/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/JeremyDFabian/JeremyDFabian/output/github-snake.svg" alt="Contribution snake" width="98%"/>
-</picture>
-
 </div>
 
 ## 🤝 Connect
