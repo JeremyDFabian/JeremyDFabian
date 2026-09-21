@@ -8,13 +8,11 @@ BS Computer Science
 <a href="https://www.linkedin.com/in/jeremy-fabian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:jeremydfabian@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-</div>
-
 <br>
 
 ### Stack
 
-**Languages**\
+**Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -24,7 +22,7 @@ BS Computer Science
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Frameworks**\
+**Frameworks**<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -33,7 +31,7 @@ BS Computer Science
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Tools**\
+**Tools**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat)
@@ -42,3 +40,5 @@ BS Computer Science
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+</div>
